@@ -1,19 +1,13 @@
 import os
-from pathlib import Path
 
-from dotenv import load_dotenv
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-load_dotenv()
-
-BASE_DIR = Path(__file__).resolve().parent.parent
-
-SECRET_KEY = os.getenv("SECRET_KEY")
+SECRET_KEY = '-b@y1+h%s=l@%l#fpd=$=3@)d3%sfhkl*od7d=0^e9nf9ft7n+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
 ALLOWED_HOSTS = ["*"]
-
 
 # Application definition
 
@@ -25,7 +19,6 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "rest_framework",
-    "rest_framework.authtoken",
     "vacunacion",
 ]
 
@@ -37,6 +30,7 @@ MIDDLEWARE = [
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
+    'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
 ROOT_URLCONF = "WebPython.urls"
@@ -59,16 +53,11 @@ TEMPLATES = [
 
 WSGI_APPLICATION = "WebPython.wsgi.application"
 
-DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.postgresql_psycopg2",
-        "NAME": os.getenv("DATABASES_NAME"),
-        "USER": os.getenv("DATABASES_USER"),
-        "PASSWORD": os.getenv("DATABASES_PASS"),
-        "HOST": os.getenv("DATABASES_HOST"),
-        "DATABASE_PORT": os.getenv("DATABASES_PORT"),
-    }
-}
+import dj_database_url
+from decouple import config
+DATABASE_URL = 'postgresql://<postgresql>'
+DATABASES = {'default': dj_database_url.config(default=DATABASE_URL)}
+
 
 AUTH_PASSWORD_VALIDATORS = [
     {
@@ -97,12 +86,14 @@ USE_L10N = True
 USE_TZ = True
 
 
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/3.2/howto/static-files/
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/media/'
 
-STATIC_URL = "/static/"
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATIC_URL = '/static/'
 
-# Default primary key field type
-# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'static'),
+)
 
-DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
