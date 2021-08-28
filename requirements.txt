@@ -1,5 +1,7 @@
 django==3.0.8
 psycopg2==2.8.6
+cryptography==3.4.8
 djangorestframework
+requests
 django-environ
 python-dotenv
