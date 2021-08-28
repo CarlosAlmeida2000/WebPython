@@ -1,0 +1,5 @@
+django==3.0.8
+psycopg2==2.8.6
+djangorestframework
+django-environ
+python-dotenv

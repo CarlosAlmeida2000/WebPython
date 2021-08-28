@@ -1,0 +1,595 @@
+[
+    {
+        "model": "vacunacion.cantones",
+        "pk": 1,
+        "fields": {
+            "canton": "CUENCA",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 2,
+        "fields": {
+            "canton": "GIRÓN",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 3,
+        "fields": {
+            "canton": "GUALACEO",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 4,
+        "fields": {
+            "canton": "NABÓN",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 5,
+        "fields": {
+            "canton": "PAUTE",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 6,
+        "fields": {
+            "canton": "PUCARA",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 7,
+        "fields": {
+            "canton": "SAN FERNANDO",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 8,
+        "fields": {
+            "canton": "SANTA ISABEL",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 9,
+        "fields": {
+            "canton": "SIGSIG",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 10,
+        "fields": {
+            "canton": "OÑA",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 11,
+        "fields": {
+            "canton": "CHORDELEG",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 12,
+        "fields": {
+            "canton": "EL PAN",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 13,
+        "fields": {
+            "canton": "SEVILLA DE ORO",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 14,
+        "fields": {
+            "canton": "GUACHAPALA",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 15,
+        "fields": {
+            "canton": "CAMILO PONCE ENRÍQUEZ",
+            "provincia_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 16,
+        "fields": {
+            "canton": "CALUMA",
+            "provincia_id": 2
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 17,
+        "fields": {
+            "canton": "CHILLANES",
+            "provincia_id": 2
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 18,
+        "fields": {
+            "canton": "CHIMBO",
+            "provincia_id": 2
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 19,
+        "fields": {
+            "canton": "ECHEANDÍA",
+            "provincia_id": 2
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 20,
+        "fields": {
+            "canton": "GUARANDA",
+            "provincia_id": 2
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 21,
+        "fields": {
+            "canton": "LAS NAVES",
+            "provincia_id": 2
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 22,
+        "fields": {
+            "canton": "SAN MIGUEL",
+            "provincia_id": 2
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 23,
+        "fields": {
+            "canton": "AZOGUES",
+            "provincia_id": 3
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 24,
+        "fields": {
+            "canton": "BIBLIÁN",
+            "provincia_id": 3
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 25,
+        "fields": {
+            "canton": "CAÑAR",
+            "provincia_id": 3
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 26,
+        "fields": {
+            "canton": "DÉLEG",
+            "provincia_id": 3
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 27,
+        "fields": {
+            "canton": "EL TAMBO",
+            "provincia_id": 3
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 28,
+        "fields": {
+            "canton": "LA TRONCAL",
+            "provincia_id": 3
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 29,
+        "fields": {
+            "canton": "SUSCAL",
+            "provincia_id": 3
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 30,
+        "fields": {
+            "canton": "BOLÍVAR",
+            "provincia_id": 4
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 31,
+        "fields": {
+            "canton": "ESPEJO",
+            "provincia_id": 4
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 32,
+        "fields": {
+            "canton": "MIRA",
+            "provincia_id": 4
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 33,
+        "fields": {
+            "canton": "MONTÚFAR",
+            "provincia_id": 4
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 34,
+        "fields": {
+            "canton": "SAN PEDRO DE HUACA",
+            "provincia_id": 4
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 35,
+        "fields": {
+            "canton": "TULCÁN",
+            "provincia_id": 4
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 36,
+        "fields": {
+            "canton": "ALAUSI",
+            "provincia_id": 5
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 37,
+        "fields": {
+            "canton": "CHAMBO",
+            "provincia_id": 5
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 38,
+        "fields": {
+            "canton": "CHUNCHI",
+            "provincia_id": 5
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 39,
+        "fields": {
+            "canton": "COLTA",
+            "provincia_id": 5
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 40,
+        "fields": {
+            "canton": "CUMANDÁ",
+            "provincia_id": 5
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 41,
+        "fields": {
+            "canton": "GUAMOTE",
+            "provincia_id": 5
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 42,
+        "fields": {
+            "canton": "GUANO",
+            "provincia_id": 5
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 43,
+        "fields": {
+            "canton": "PALLATANGA",
+            "provincia_id": 5
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 44,
+        "fields": {
+            "canton": "PENIPE",
+            "provincia_id": 5
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 45,
+        "fields": {
+            "canton": "RIOBAMBA",
+            "provincia_id": 5
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 46,
+        "fields": {
+            "canton": "LA MANÁ",
+            "provincia_id": 6
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 47,
+        "fields": {
+            "canton": "LATACUNGA",
+            "provincia_id": 6
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 48,
+        "fields": {
+            "canton": "PANGUA",
+            "provincia_id": 6
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 49,
+        "fields": {
+            "canton": "PUJILI",
+            "provincia_id": 6
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 50,
+        "fields": {
+            "canton": "SALCEDO",
+            "provincia_id": 6
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 51,
+        "fields": {
+            "canton": "SAQUISILÍ",
+            "provincia_id": 6
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 52,
+        "fields": {
+            "canton": "SIGCHOS",
+            "provincia_id": 6
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 53,
+        "fields": {
+            "canton": "ARENILLAS",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 54,
+        "fields": {
+            "canton": "ATAHUALPA",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 55,
+        "fields": {
+            "canton": "BALSAS",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 56,
+        "fields": {
+            "canton": "CHILLA",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 57,
+        "fields": {
+            "canton": "EL GUABO",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 58,
+        "fields": {
+            "canton": "HUAQUILLAS",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 59,
+        "fields": {
+            "canton": "LAS LAJAS",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 60,
+        "fields": {
+            "canton": "MACHALA",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 61,
+        "fields": {
+            "canton": "MARCABELÍ",
+            "provincia_id": 7
+        }
+    }
+    ,
+    {
+        "model": "vacunacion.cantones",
+        "pk": 62,
+        "fields": {
+            "canton": "PASAJE",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 63,
+        "fields": {
+            "canton": "PIÑAS",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 64,
+        "fields": {
+            "canton": "PORTOVELO",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 65,
+        "fields": {
+            "canton": "SANTA ROSA",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 66,
+        "fields": {
+            "canton": "ZARUMA",
+            "provincia_id": 7
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 67,
+        "fields": {
+            "canton": "ATACAMES",
+            "provincia_id": 8
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 68,
+        "fields": {
+            "canton": "ELOY ALFARO",
+            "provincia_id": 8
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 69,
+        "fields": {
+            "canton": "ESMERALDAS",
+            "provincia_id": 8
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 70,
+        "fields": {
+            "canton": "LA CONCORDIA",
+            "provincia_id": 8
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 71,
+        "fields": {
+            "canton": "MUISNE",
+            "provincia_id": 8
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 72,
+        "fields": {
+            "canton": "QUININDÉ",
+            "provincia_id": 8
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 73,
+        "fields": {
+            "canton": "RIOVERDE",
+            "provincia_id": 8
+        }
+    },
+    {
+        "model": "vacunacion.cantones",
+        "pk": 74,
+        "fields": {
+            "canton": "SAN LORENZO",
+            "provincia_id": 8
+        }
+    }
+]

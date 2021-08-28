@@ -1,0 +1,65 @@
+[
+    {
+        "model": "vacunacion.centro_vacunacion",
+        "pk": 1,
+        "fields": {
+            "canton_id": 1,
+            "centro_vacunacion": "COLISEO BICENTENARIO DE LA UDA",
+            "direccion": "AV. RICARDO DURÁN Y ORINOCO"
+        }
+    },
+    {
+        "model": "vacunacion.centro_vacunacion",
+        "pk": 2,
+        "fields": {
+            "canton_id": 1,
+            "centro_vacunacion": "COLISEO DE LA UNIVERSIDAD ESTATAL  DE CUENCA",
+            "direccion": "CALLE HONORATO LOYOLA."
+        }
+    },
+    {
+        "model": "vacunacion.centro_vacunacion",
+        "pk": 3,
+        "fields": {
+            "canton_id": 1,
+            "centro_vacunacion": "POLIFORO DE LA UNIVERSIDAD CATOLICA DE CUENCA",
+            "direccion": "AV. AMERICAS"
+        }
+    },
+    {
+        "model": "vacunacion.centro_vacunacion",
+        "pk": 4,
+        "fields": {
+            "canton_id": 1,
+            "centro_vacunacion": "UNIVERSIDAD POLITÉCNICA SALESIANA",
+            "direccion": "CALLE VIAJE Y CUENCA"
+        }
+    },
+    {
+        "model": "vacunacion.centro_vacunacion",
+        "pk": 5,
+        "fields": {
+            "canton_id": 1,
+            "centro_vacunacion": "COLISEO CERRADO CALUMA",
+            "direccion": "BARRIO SANTA ROSA CALLE DR. ROBERTO ARREGUI"
+        }
+    },
+    {
+        "model": "vacunacion.centro_vacunacion",
+        "pk": 6,
+        "fields": {
+            "canton_id": 1,
+            "centro_vacunacion": "COMPLEJO VISCARRA PARK",
+            "direccion": "AV. NELSON LEON (VIA A VENTANAS )"
+        }
+    },
+    {
+        "model": "vacunacion.centro_vacunacion",
+        "pk": 7,
+        "fields": {
+            "canton_id": 1,
+            "centro_vacunacion": "UNIVERSIDAD ESTATAL DE BOLIVAR",
+            "direccion": "BARRIO MIRAFLORES A LADO DEL ESTADIO"
+        }
+    }
+]

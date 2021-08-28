@@ -1,0 +1,170 @@
+[
+    {
+        "model": "vacunacion.provincias",
+        "pk": 1,
+        "fields": {
+            "provincia": "Azuay"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 2,
+        "fields": {
+            "provincia": "Bolivar"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 3,
+        "fields": {
+            "provincia": "Cañar"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 4,
+        "fields": {
+            "provincia": "Carchi"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 5,
+        "fields": {
+            "provincia": "Chimborazo"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 6,
+        "fields": {
+            "provincia": "Cotopaxi"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 7,
+        "fields": {
+            "provincia": "El Oro"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 8,
+        "fields": {
+            "provincia": "Esmeraldas"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 9,
+        "fields": {
+            "provincia": "Galápagos"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 10,
+        "fields": {
+            "provincia": "Guayas"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 11,
+        "fields": {
+            "provincia": "Imbabura"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 12,
+        "fields": {
+            "provincia": "Loja"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 13,
+        "fields": {
+            "provincia": "Los Ríos"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 14,
+        "fields": {
+            "provincia": "Manabí"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 15,
+        "fields": {
+            "provincia": "Morona Santiago"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 16,
+        "fields": {
+            "provincia": "Napo"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 17,
+        "fields": {
+            "provincia": "Orellana"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 18,
+        "fields": {
+            "provincia": "Pastaza"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 19,
+        "fields": {
+            "provincia": "Pichincha"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 20,
+        "fields": {
+            "provincia": "Santa Elena"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 21,
+        "fields": {
+            "provincia": "Santo Domingo de los Tsáchilas"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 22,
+        "fields": {
+            "provincia": "Sucumbios"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 23,
+        "fields": {
+            "provincia": "Tungurahua"
+        }
+    },
+    {
+        "model": "vacunacion.provincias",
+        "pk": 24,
+        "fields": {
+            "provincia": "Zamora Chinchipe"
+        }
+    }
+]

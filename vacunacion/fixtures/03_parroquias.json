@@ -1,0 +1,298 @@
+[
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 1,
+        "fields": {
+            "parroquia": "BELLAVISTA",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 2,
+        "fields": {
+            "parroquia": "CAÑARIBAMBA",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 3,
+        "fields": {
+            "parroquia": "EL BATÁN",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 4,
+        "fields": {
+            "parroquia": "EL SAGRARIO",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 5,
+        "fields": {
+            "parroquia": "EL VECINO",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 6,
+        "fields": {
+            "parroquia": "GIL RAMÍREZ DÁVALOS",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 7,
+        "fields": {
+            "parroquia": "HUAYNACÁPAC",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 8,
+        "fields": {
+            "parroquia": "MACHÁNGARA",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 9,
+        "fields": {
+            "parroquia": "MONAY",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 10,
+        "fields": {
+            "parroquia": "SAN BLAS",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 11,
+        "fields": {
+            "parroquia": "SAN SEBASTIÁN",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 12,
+        "fields": {
+            "parroquia": "SUCRE",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 13,
+        "fields": {
+            "parroquia": "TOTORACOCHA",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 14,
+        "fields": {
+            "parroquia": "YANUNCAY",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 15,
+        "fields": {
+            "parroquia": "HERMANO MIGUEL",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 16,
+        "fields": {
+            "parroquia": "CUENCA",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 17,
+        "fields": {
+            "parroquia": "BAÑOS",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 18,
+        "fields": {
+            "parroquia": "CUMBE",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 19,
+        "fields": {
+            "parroquia": "CHAUCHA",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 20,
+        "fields": {
+            "parroquia": "CHECA (JIDCAY)",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 21,
+        "fields": {
+            "parroquia": "CHIQUINTAD",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 22,
+        "fields": {
+            "parroquia": "LLACAO",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 23,
+        "fields": {
+            "parroquia": "MOLLETURO",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 24,
+        "fields": {
+            "parroquia": "NULTI",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 25,
+        "fields": {
+            "parroquia": "OCTAVIO CORDERO PALACIOS (SANTA ROSA)",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 26,
+        "fields": {
+            "parroquia": "PACCHA",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 27,
+        "fields": {
+            "parroquia": "QUINGEO",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 28,
+        "fields": {
+            "parroquia": "RICAURTE",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 29,
+        "fields": {
+            "parroquia": "SAN JOAQUÍN",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 30,
+        "fields": {
+            "parroquia": "SANTA ANA",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 31,
+        "fields": {
+            "parroquia": "SAYAUSÍ",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 32,
+        "fields": {
+            "parroquia": "SIDCAY",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 33,
+        "fields": {
+            "parroquia": "SININCAY",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 34,
+        "fields": {
+            "parroquia": "TARQUI",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 35,
+        "fields": {
+            "parroquia": "TURI)",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 36,
+        "fields": {
+            "parroquia": "VALLE",
+            "canton_id": 1
+        }
+    },
+    {
+        "model": "vacunacion.parroquias",
+        "pk": 37,
+        "fields": {
+            "parroquia": "VICTORIA DEL PORTETE (IRQUIS)",
+            "canton_id": 1
+        }
+    }
+]
