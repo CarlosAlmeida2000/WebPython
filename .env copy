@@ -1,0 +1,8 @@
+SECRET_KEY = "6@f2@h_+)-duazq-5flu9z-+1*6m@z!v55s2u8-r+wiw96ui_6" # <- Llave secreta
+
+# Config of the Data Base
+DATABASES_NAME = "ecuador_vacunacion" # <- Nombre de la base de datos
+DATABASES_USER = "postgres" # <- Nombre del usuario del motor de base de datos
+DATABASES_PASS = "" # <- Contraseña del motor de base de datos
+DATABASES_HOST = "localhost" # <- Dirección del motor de base de datos
+DATABASES_PORT = "5432" # <- Puerto del motor de base de datos
